@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @truongwerk
 - 👀 I’m interested in javascript.
 - 🌱 I’m currently learning web developpment.
-- 💞️ I’m looking to collaborate on fornt-end works.
+- 💞️ I’m looking to collaborate on front-end works.
 - 📫 How to reach me https://twitter.com/TongQuangTruong
 
 <!---
